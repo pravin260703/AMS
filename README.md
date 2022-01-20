@@ -1,0 +1,2 @@
+# AMS
+Admission Management System
